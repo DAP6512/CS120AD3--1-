@@ -1,0 +1,24 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "cppdbg",
+      "request": "launch",
+      "args": [],
+      "stopAtEntry": false,
+      "externalConsole": true,
+      "cwd": "c:/Users/r_r_u/Documents/Antelope Valley College Documents/Fall 2024/CIS120/Chapter_4/Algorithm_Development/CS120AD3-(1)",
+      "program": "c:/Users/r_r_u/Documents/Antelope Valley College Documents/Fall 2024/CIS120/Chapter_4/Algorithm_Development/CS120AD3-(1)/build/Debug/outDebug",
+      "MIMode": "gdb",
+      "miDebuggerPath": "gdb",
+      "setupCommands": [
+        {
+          "description": "Enable pretty-printing for gdb",
+          "text": "-enable-pretty-printing",
+          "ignoreFailures": true
+        }
+      ]
+    }
+  ]
+}
